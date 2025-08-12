@@ -2,7 +2,7 @@
 - 👀 I’m interested in videogames, tech, reading, programming, cybersec, and osint
 - 🌱 I like to learn different programming languages and new tech skills
 - 💞️ I’m looking to collaborate on all sorts of projects
-- 🖥 My favorite Computer OS is Linux with my favorite distros based on my needs and tasks I do being Parrot, Debian, Kali, Arch, Manjaro, BlackArch, Kali Purple, Gentoo, KDEPlasma, and Nobara
+- 🖥 My favorite Computer OS is Linux with my favorite distros based on my needs and tasks I do being Parrot, Debian, Kali, Arch, Manjaro, BlackArch, Kali Purple, Gentoo, and Nobara. I also like/enjoy BSD operating systems as well, favoring open-source and with free use/free use licenses. 
 - 📫 How to reach me: You can contact me on GitHub
 
 <!---
