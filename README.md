@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Catx108
-- 👀 I’m interested in videogames and reading
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in videogames, tech, reading, programming, cybersec, and osint
+- 🌱 I like to learn different programming languages and new tech skills
 - 💞️ I’m looking to collaborate on all sorts of projects
 - 📫 How to reach me: You can contact me on GitHub
 
